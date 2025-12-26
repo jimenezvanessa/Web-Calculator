@@ -16,11 +16,6 @@ A simple and visually appealing calculator web app with pastel pink and purple b
 
 ---
 
-## Demo
-
-*Add a screenshot or demo link here if available.*
-
----
 
 ## Installation
 
@@ -72,14 +67,7 @@ git clone https://github.com/yourusername/pastel-calculator.git
 
 ## License
 
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-[Your Name]  
-[Your Contact or GitHub URL]
+This project is for educational purposes only
 
 ---
 
